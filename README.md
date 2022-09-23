@@ -4,7 +4,7 @@
 - Going for shopping
 
 ## Technical Background
-After getting my undergraduate degree, I was hired as a full time employee in the same company where I did my internship. I had be involved in three different projects, all servering a single purpose of analyzing and visualizing the healthcare data of US. This was a analytical tool used by healthcare intermediary.These
+After getting my undergraduate degree, I was hired as a full time employee in the same company where I did my internship. I was involved in three different projects as a software developer, all servering a single purpose of analyzing and visualizing the healthcare data of US. This was a analytical tool used by healthcare intermediaries.These
 software projects used Grails and Groovy (Java framework) as their major framework for the backend tools while using Javascript, jquery, and Angular js as the major front-end tools.
 
 
